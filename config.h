@@ -6,8 +6,8 @@ static int centered = 1;                    /* -c option; centers dmenu on scree
 static int min_width = 500;                    /* minimum width when centered */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"JetBrainsMono Nerd Font:size=12",
-	"NotoColorEmoji:pixelsize=12:antialias=true:autohint=true"
+  "JetBrainsMono Nerd Font:style=bold:size=13:antialias=true:autohint=true",
+	"NotoColorEmoji:pixelsize=13:antialias=true:autohint=true"
 
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */

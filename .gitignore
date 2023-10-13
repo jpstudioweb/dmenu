@@ -3,7 +3,7 @@
 *.o
 
 # Arquivos binários
-st
+dmenu
 
 # Arquivos de backup
 *~

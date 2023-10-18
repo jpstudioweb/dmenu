@@ -10,5 +10,6 @@ dmenu
 *.bak
 *.orig
 
-# Arquivos de configuração
+# Arquivos rejeitados de patches
+*.rej
 

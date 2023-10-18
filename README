@@ -5,7 +5,8 @@ dmenu is an efficient dynamic menu for X.
 
 Requirements
 ------------
-In order to build dmenu you need the Xlib header files.
+In order to build dmenu you need the Xlib header files on Ubuntu.
+sudo apt install libxft-dev libx11-dev libxinerama-dev
 
 
 Installation
@@ -22,3 +23,4 @@ Afterwards enter the following command to build and install dmenu
 Running dmenu
 -------------
 See the man page for details.
+
